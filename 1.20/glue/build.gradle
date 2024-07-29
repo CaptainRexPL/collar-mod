@@ -24,6 +24,6 @@ dependencies {
     implementation project(':common')
     modImplementation("net.fabricmc:fabric-loader:${project.fabric_loader_version}")
     //implementation 'org.joml:joml:1.10.5'
-    implementation group: 'org.joml', name: 'joml', version: '1.10.5'
+    implementation group: 'org.joml', name: 'joml', version: '1.10.8'
     //modApi "dev.architectury:architectury:${rootProject.architectury_version}"
 }
